@@ -4,7 +4,7 @@ This project was done for the course Microcontroller Architecture and Organizati
 Authors
 
      DATTAKUMAR MALKHEDE    [20MES0051]
-     PRABHLEEN KAUR CHAWALA [20MES0041]
+     PRABHLEEN KAUR CHAWLA [20MES0041]
      MEERA S NAIR           [20MES0040]
     
 Guide
