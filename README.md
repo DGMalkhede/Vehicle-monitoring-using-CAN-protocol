@@ -1,7 +1,7 @@
 # Vehicle monitoring using CAN protocol
 This project was done for the course Microcontroller Architecture and Organization (ECE5042) at Vellore Institute of Technology, Vellore to explore and learn the usage of Embedded C.
 
-Authors
+Authors:
 DATTAKUMAR GAJANAN MALKHEDE [20MES0051]
 PRABHLEEN KAUR CHAWALA [20MES0041]
 MEERA S NAIR [20MES0040]
